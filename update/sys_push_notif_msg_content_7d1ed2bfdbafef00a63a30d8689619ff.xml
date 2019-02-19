@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_push_notif_msg_content">
+    <sys_push_notif_msg_content action="INSERT_OR_UPDATE">
+        <name>New Warehouse Run</name>
+        <push_app display_value="ServiceNow Mobile Application">05ed2fb177002300258da2e2c81061c2</push_app>
+        <script><![CDATA[(function buildJSON(/*GlideRecord*/ current, /*String*/ message, /*Object*/ attributes) {
+	
+	var json = {};
+		
+		json = {
+			"aps" : {
+				"sound" : "default"
+			},
+			"Redirection" : {
+				"Title" : current.getDisplayValue('priority') + 
+						  " priority run created: " + current.product.number + 
+						  " - " + current.getDisplayValue('product'),
+				"To" : "Embedded",
+				"Destination": {
+					"DocumentId": "ee8b47d2db13630038b652f8f496194e",
+					"ItemId": current.sys_id
+				}
+			},
+			"Layout" : {
+				"Identifier" : current.number,
+				"Description" : current.short_description,
+				"AdditionalInfo" : current.getDisplayValue('product')        }
+			};
+			
+			return json;
+		})(current, message, attributes);
+		]]></script>
+        <sys_class_name>sys_push_notif_msg_content</sys_class_name>
+        <sys_created_by>arnoud.kooi</sys_created_by>
+        <sys_created_on>2019-02-17 21:24:13</sys_created_on>
+        <sys_id>7d1ed2bfdbafef00a63a30d8689619ff</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>New Warehouse Run</sys_name>
+        <sys_package display_value="Warehouse Runner" source="x_snc_warehouse_ru">236fab3ddbd3230038b652f8f4961990</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Warehouse Runner">236fab3ddbd3230038b652f8f4961990</sys_scope>
+        <sys_update_name>sys_push_notif_msg_content_7d1ed2bfdbafef00a63a30d8689619ff</sys_update_name>
+        <sys_updated_by>arnoud.kooi</sys_updated_by>
+        <sys_updated_on>2019-02-17 22:11:04</sys_updated_on>
+    </sys_push_notif_msg_content>
+</record_update>

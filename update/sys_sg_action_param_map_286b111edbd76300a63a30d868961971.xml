@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Bring it">9b219156dbd76300a63a30d868961915</button>
+        <item_parameter display_value="product">8d09d59adbd76300a63a30d8689619a9</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>arnoud.kooi</sys_created_by>
+        <sys_created_on>2019-01-31 14:26:05</sys_created_on>
+        <sys_id>286b111edbd76300a63a30d868961971</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>8d09d59adbd76300a63a30d8689619a9</sys_name>
+        <sys_package display_value="Warehouse Runner" source="x_snc_warehouse_ru">236fab3ddbd3230038b652f8f4961990</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Warehouse Runner">236fab3ddbd3230038b652f8f4961990</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_286b111edbd76300a63a30d868961971</sys_update_name>
+        <sys_updated_by>arnoud.kooi</sys_updated_by>
+        <sys_updated_on>2019-01-31 14:26:05</sys_updated_on>
+        <ui_parameter display_value="Product">0cd311d6dbd76300a63a30d86896194b</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

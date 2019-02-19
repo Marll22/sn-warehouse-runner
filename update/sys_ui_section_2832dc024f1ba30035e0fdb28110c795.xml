@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="2832dc024f1ba30035e0fdb28110c795" sys_domain="global" table="x_snc_warehouse_ru_product" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>Arnoud.Kooi</sys_created_by>
+            <sys_created_on>2019-01-30 14:27:33</sys_created_on>
+            <sys_id>6432dc024f1ba30035e0fdb28110c79c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_warehouse_ru_product" sys_domain="global" view="Default view">2832dc024f1ba30035e0fdb28110c795</sys_ui_section>
+            <sys_updated_by>Arnoud.Kooi</sys_updated_by>
+            <sys_updated_on>2019-01-30 14:27:33</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>1</position>
+            <sys_created_by>Arnoud.Kooi</sys_created_by>
+            <sys_created_on>2019-01-30 14:27:33</sys_created_on>
+            <sys_id>6032dc024f1ba30035e0fdb28110c79d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_warehouse_ru_product" sys_domain="global" view="Default view">2832dc024f1ba30035e0fdb28110c795</sys_ui_section>
+            <sys_updated_by>Arnoud.Kooi</sys_updated_by>
+            <sys_updated_on>2019-01-30 14:27:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>color</element>
+            <position>2</position>
+            <sys_created_by>Arnoud.Kooi</sys_created_by>
+            <sys_created_on>2019-01-30 14:27:33</sys_created_on>
+            <sys_id>e432dc024f1ba30035e0fdb28110c79d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_warehouse_ru_product" sys_domain="global" view="Default view">2832dc024f1ba30035e0fdb28110c795</sys_ui_section>
+            <sys_updated_by>Arnoud.Kooi</sys_updated_by>
+            <sys_updated_on>2019-01-30 14:27:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>product_number</element>
+            <position>3</position>
+            <sys_created_by>Arnoud.Kooi</sys_created_by>
+            <sys_created_on>2019-01-30 14:27:33</sys_created_on>
+            <sys_id>6c32dc024f1ba30035e0fdb28110c79d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_warehouse_ru_product" sys_domain="global" view="Default view">2832dc024f1ba30035e0fdb28110c795</sys_ui_section>
+            <sys_updated_by>Arnoud.Kooi</sys_updated_by>
+            <sys_updated_on>2019-01-30 14:27:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>Arnoud.Kooi</sys_created_by>
+            <sys_created_on>2019-01-30 14:27:33</sys_created_on>
+            <sys_id>e032dc024f1ba30035e0fdb28110c79e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_warehouse_ru_product" sys_domain="global" view="Default view">2832dc024f1ba30035e0fdb28110c795</sys_ui_section>
+            <sys_updated_by>Arnoud.Kooi</sys_updated_by>
+            <sys_updated_on>2019-01-30 14:27:33</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>size</element>
+            <position>5</position>
+            <sys_created_by>Arnoud.Kooi</sys_created_by>
+            <sys_created_on>2019-01-30 14:27:33</sys_created_on>
+            <sys_id>6832dc024f1ba30035e0fdb28110c79e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_warehouse_ru_product" sys_domain="global" view="Default view">2832dc024f1ba30035e0fdb28110c795</sys_ui_section>
+            <sys_updated_by>Arnoud.Kooi</sys_updated_by>
+            <sys_updated_on>2019-01-30 14:27:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>stock</element>
+            <position>6</position>
+            <sys_created_by>Arnoud.Kooi</sys_created_by>
+            <sys_created_on>2019-01-30 14:27:33</sys_created_on>
+            <sys_id>ec32dc024f1ba30035e0fdb28110c79e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_warehouse_ru_product" sys_domain="global" view="Default view">2832dc024f1ba30035e0fdb28110c795</sys_ui_section>
+            <sys_updated_by>Arnoud.Kooi</sys_updated_by>
+            <sys_updated_on>2019-01-30 14:27:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>7</position>
+            <sys_created_by>Arnoud.Kooi</sys_created_by>
+            <sys_created_on>2019-01-30 14:27:33</sys_created_on>
+            <sys_id>6432dc024f1ba30035e0fdb28110c79f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_warehouse_ru_product" sys_domain="global" view="Default view">2832dc024f1ba30035e0fdb28110c795</sys_ui_section>
+            <sys_updated_by>Arnoud.Kooi</sys_updated_by>
+            <sys_updated_on>2019-01-30 14:27:33</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>8</position>
+            <sys_created_by>Arnoud.Kooi</sys_created_by>
+            <sys_created_on>2019-01-30 15:33:31</sys_created_on>
+            <sys_id>fa41e0424f5ba30035e0fdb28110c787</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_warehouse_ru_product" sys_domain="global" view="Default view">2832dc024f1ba30035e0fdb28110c795</sys_ui_section>
+            <sys_updated_by>Arnoud.Kooi</sys_updated_by>
+            <sys_updated_on>2019-01-30 15:33:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_snc_warehouse_ru_product</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>Arnoud.Kooi</sys_created_by>
+            <sys_created_on>2019-01-30 14:27:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2832dc024f1ba30035e0fdb28110c795</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_warehouse_ru_product</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Warehouse Runner" source="x_snc_warehouse_ru">236fab3ddbd3230038b652f8f4961990</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Warehouse Runner">236fab3ddbd3230038b652f8f4961990</sys_scope>
+            <sys_update_name>sys_ui_section_2832dc024f1ba30035e0fdb28110c795</sys_update_name>
+            <sys_updated_by>Arnoud.Kooi</sys_updated_by>
+            <sys_updated_on>2019-01-30 14:27:33</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

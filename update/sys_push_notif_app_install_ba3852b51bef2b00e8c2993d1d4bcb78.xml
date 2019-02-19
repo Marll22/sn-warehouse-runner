@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_push_notif_app_install">
+    <sys_push_notif_app_install action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <last_registered_on>2019-02-11 20:11:43</last_registered_on>
+        <sys_class_name>sys_push_notif_app_install</sys_class_name>
+        <sys_created_by>arnoud.kooi</sys_created_by>
+        <sys_created_on>2019-02-11 15:50:23</sys_created_on>
+        <sys_id>ba3852b51bef2b00e8c2993d1d4bcb78</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>bf521f5e81e04eab6c96b56f7ba81771b6cef5d4dc10ba3989fe4b112ce3f227</sys_name>
+        <sys_package display_value="Warehouse Runner" source="x_snc_warehouse_ru">236fab3ddbd3230038b652f8f4961990</sys_package>
+        <sys_policy/>
+        <sys_push_application_id display_value="ServiceNow Classic Mobile Application">ab704041ff1102009738ffffffffff33</sys_push_application_id>
+        <sys_push_platform_id display_value="Apple">20e71f30ff0002009738ffffffffff6b</sys_push_platform_id>
+        <sys_scope display_value="Warehouse Runner">236fab3ddbd3230038b652f8f4961990</sys_scope>
+        <sys_update_name>sys_push_notif_app_install_ba3852b51bef2b00e8c2993d1d4bcb78</sys_update_name>
+        <sys_updated_by>arnoud.kooi</sys_updated_by>
+        <sys_updated_on>2019-02-11 20:11:43</sys_updated_on>
+        <sys_user_id display_value="Arnoud Kooi">7025399bdba92300a63a30d8689619cf</sys_user_id>
+        <token>bf521f5e81e04eab6c96b56f7ba81771b6cef5d4dc10ba3989fe4b112ce3f227</token>
+    </sys_push_notif_app_install>
+</record_update>

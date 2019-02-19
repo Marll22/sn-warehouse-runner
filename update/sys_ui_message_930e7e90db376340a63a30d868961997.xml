@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application>Virtual Agent</application>
+        <key>What is the Item your looking for?</key>
+        <language>en</language>
+        <message>What is the Item your looking for?</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>arnoud.kooi</sys_created_by>
+        <sys_created_on>2019-02-19 13:00:26</sys_created_on>
+        <sys_id>930e7e90db376340a63a30d868961997</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>What is the Item your looking for?</sys_name>
+        <sys_package display_value="Warehouse Runner" source="x_snc_warehouse_ru">236fab3ddbd3230038b652f8f4961990</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Warehouse Runner">236fab3ddbd3230038b652f8f4961990</sys_scope>
+        <sys_update_name>sys_ui_message_930e7e90db376340a63a30d868961997</sys_update_name>
+        <sys_updated_by>arnoud.kooi</sys_updated_by>
+        <sys_updated_on>2019-02-19 13:00:26</sys_updated_on>
+    </sys_ui_message>
+</record_update>

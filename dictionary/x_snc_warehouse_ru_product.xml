@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Product" max_length="40" name="x_snc_warehouse_ru_product" type="collection">
+        <element label="Color" max_length="40" name="color" type="string"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element label="Number" max_length="40" name="number" type="string"/>
+        <element label="Size" max_length="40" name="size" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Stock" max_length="40" name="stock" type="integer"/>
+    </element>
+</database>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Product" language="en" table="x_snc_warehouse_ru_product">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Product</label>
+            <language>en</language>
+            <name>x_snc_warehouse_ru_product</name>
+            <plural>Products</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>arnoud.kooi</sys_created_by>
+            <sys_created_on>2019-01-30 12:04:45</sys_created_on>
+            <sys_id>e8817bbddbd3230038b652f8f496190f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Product</sys_name>
+            <sys_package display_value="Warehouse Runner" source="x_snc_warehouse_ru">236fab3ddbd3230038b652f8f4961990</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Warehouse Runner">236fab3ddbd3230038b652f8f4961990</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_warehouse_ru_product__en</sys_update_name>
+            <sys_updated_by>arnoud.kooi</sys_updated_by>
+            <sys_updated_on>2019-01-30 12:04:45</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

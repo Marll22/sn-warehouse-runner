@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_details_screen">
+    <sys_sg_details_screen action="INSERT_OR_UPDATE">
+        <application_roles/>
+        <available_offline>false</available_offline>
+        <data_item display_value="Runs Active">4ee5d8864f1ba30035e0fdb28110c73b</data_item>
+        <description/>
+        <fetch_type>not_required</fetch_type>
+        <hidden>false</hidden>
+        <icon display_value="question-circle">4e7690c64f1ba30035e0fdb28110c7a8</icon>
+        <item_view display_value="Run Request Queue detail item view">9676d0c64f1ba30035e0fdb28110c70d</item_view>
+        <name>Details</name>
+        <order>10</order>
+        <parent>2e7610c64f1ba30035e0fdb28110c7fc</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <roles_override/>
+        <sys_class_name>sys_sg_details_screen</sys_class_name>
+        <sys_created_by>Arnoud.Kooi</sys_created_by>
+        <sys_created_on>2019-01-31 11:24:48</sys_created_on>
+        <sys_id>ae7690c64f1ba30035e0fdb28110c7ad</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Details</sys_name>
+        <sys_package display_value="Warehouse Runner" source="x_snc_warehouse_ru">236fab3ddbd3230038b652f8f4961990</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Warehouse Runner">236fab3ddbd3230038b652f8f4961990</sys_scope>
+        <sys_update_name>sys_sg_details_screen_ae7690c64f1ba30035e0fdb28110c7ad</sys_update_name>
+        <sys_updated_by>Arnoud.Kooi</sys_updated_by>
+        <sys_updated_on>2019-01-30 15:14:37</sys_updated_on>
+    </sys_sg_details_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=ae7690c64f1ba30035e0fdb28110c7ad"/>
+</record_update>

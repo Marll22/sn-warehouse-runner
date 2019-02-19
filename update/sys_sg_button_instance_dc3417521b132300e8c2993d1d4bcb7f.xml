@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Not Available">f2b3df121b132300e8c2993d1d4bcb4a</button>
+        <description/>
+        <field_name/>
+        <label>Not Available</label>
+        <location>leading_swipe</location>
+        <name>Not Available</name>
+        <order>4</order>
+        <parent>179583dedbdf230038b652f8f4961975</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>arnoud.kooi</sys_created_by>
+        <sys_created_on>2019-01-31 23:13:37</sys_created_on>
+        <sys_id>dc3417521b132300e8c2993d1d4bcb7f</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Not Available</sys_name>
+        <sys_package display_value="Warehouse Runner" source="x_snc_warehouse_ru">236fab3ddbd3230038b652f8f4961990</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Warehouse Runner">236fab3ddbd3230038b652f8f4961990</sys_scope>
+        <sys_update_name>sys_sg_button_instance_dc3417521b132300e8c2993d1d4bcb7f</sys_update_name>
+        <sys_updated_by>arnoud.kooi</sys_updated_by>
+        <sys_updated_on>2019-01-31 23:16:53</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=dc3417521b132300e8c2993d1d4bcb7f"/>
+</record_update>

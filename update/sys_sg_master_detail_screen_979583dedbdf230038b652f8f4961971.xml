@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_detail_screen">
+    <sys_sg_master_detail_screen action="INSERT_OR_UPDATE">
+        <application_roles>x_snc_warehouse_ru.warehouse_runner_user</application_roles>
+        <available_offline>false</available_offline>
+        <data_item display_value="Runs Assigned to Me">b515c79edbdf230038b652f8f4961943</data_item>
+        <description/>
+        <fetch_type>not_required</fetch_type>
+        <hidden>false</hidden>
+        <icon display_value="file-alt">b69583dedbdf230038b652f8f496196a</icon>
+        <name>My Runs</name>
+        <order>20</order>
+        <parent>96640b5edbdf230038b652f8f49619d9</parent>
+        <parent_table>sys_sg_folder</parent_table>
+        <roles_override/>
+        <sys_class_name>sys_sg_master_detail_screen</sys_class_name>
+        <sys_created_by>arnoud.kooi</sys_created_by>
+        <sys_created_on>2019-01-31 22:09:56</sys_created_on>
+        <sys_id>979583dedbdf230038b652f8f4961971</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>My Runs</sys_name>
+        <sys_package display_value="Warehouse Runner" source="x_snc_warehouse_ru">236fab3ddbd3230038b652f8f4961990</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Warehouse Runner">236fab3ddbd3230038b652f8f4961990</sys_scope>
+        <sys_update_name>sys_sg_master_detail_screen_979583dedbdf230038b652f8f4961971</sys_update_name>
+        <sys_updated_by>arnoud.kooi</sys_updated_by>
+        <sys_updated_on>2019-02-08 08:44:24</sys_updated_on>
+    </sys_sg_master_detail_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=979583dedbdf230038b652f8f4961971"/>
+</record_update>

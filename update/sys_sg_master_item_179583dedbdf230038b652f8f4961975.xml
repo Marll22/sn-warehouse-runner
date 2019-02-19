@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition/>
+        <condition_order/>
+        <item_view display_value="My Runs item view">4b9583dedbdf230038b652f8f49619ad</item_view>
+        <name>Master Item</name>
+        <screen display_value="My Runs">979583dedbdf230038b652f8f4961971</screen>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>arnoud.kooi</sys_created_by>
+        <sys_created_on>2019-01-31 22:09:56</sys_created_on>
+        <sys_id>179583dedbdf230038b652f8f4961975</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Master Item</sys_name>
+        <sys_package display_value="Warehouse Runner" source="x_snc_warehouse_ru">236fab3ddbd3230038b652f8f4961990</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Warehouse Runner">236fab3ddbd3230038b652f8f4961990</sys_scope>
+        <sys_update_name>sys_sg_master_item_179583dedbdf230038b652f8f4961975</sys_update_name>
+        <sys_updated_by>arnoud.kooi</sys_updated_by>
+        <sys_updated_on>2019-01-31 22:09:56</sys_updated_on>
+        <table>x_snc_warehouse_ru_warehouse_request</table>
+    </sys_sg_master_item>
+</record_update>

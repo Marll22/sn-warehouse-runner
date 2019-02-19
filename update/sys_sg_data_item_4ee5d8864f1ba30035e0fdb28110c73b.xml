@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <name>Runs Active</name>
+        <query_condition table="x_snc_warehouse_ru_warehouse_request">active=true^stateNOT IN4^ORDERBYDESCsys_updated_on<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+            <item endquery="false" field="state" goto="false" newquery="false" operator="NOT IN" or="false" value="4"/>
+            <item endquery="false" field="" goto="false" newquery="false" operator="ORDERBYDESC" or="false" value="sys_updated_on"/>
+        </query_condition>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>Arnoud.Kooi</sys_created_by>
+        <sys_created_on>2019-01-30 14:43:46</sys_created_on>
+        <sys_id>4ee5d8864f1ba30035e0fdb28110c73b</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Runs Active</sys_name>
+        <sys_package display_value="Warehouse Runner" source="x_snc_warehouse_ru">236fab3ddbd3230038b652f8f4961990</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Warehouse Runner">236fab3ddbd3230038b652f8f4961990</sys_scope>
+        <sys_update_name>sys_sg_data_item_4ee5d8864f1ba30035e0fdb28110c73b</sys_update_name>
+        <sys_updated_by>arnoud.kooi</sys_updated_by>
+        <sys_updated_on>2019-02-19 08:58:34</sys_updated_on>
+        <table>x_snc_warehouse_ru_warehouse_request</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=4ee5d8864f1ba30035e0fdb28110c73b"/>
+</record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>arnoud.kooi</sys_created_by>
+        <sys_created_on>2019-01-30 12:02:04</sys_created_on>
+        <sys_id>91e0ff7ddbd3230038b652f8f49619bc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_warehouse_ru_warehouse_request.x_snc_warehouse_ru.warehouse_request_user</sys_name>
+        <sys_package display_value="Warehouse Runner" source="x_snc_warehouse_ru">236fab3ddbd3230038b652f8f4961990</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Warehouse Runner">236fab3ddbd3230038b652f8f4961990</sys_scope>
+        <sys_security_acl display_value="x_snc_warehouse_ru_warehouse_request">c5e0ff7ddbd3230038b652f8f49619b9</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_91e0ff7ddbd3230038b652f8f49619bc</sys_update_name>
+        <sys_updated_by>arnoud.kooi</sys_updated_by>
+        <sys_updated_on>2019-01-30 12:02:04</sys_updated_on>
+        <sys_user_role display_value="x_snc_warehouse_ru.warehouse_request_user" name="x_snc_warehouse_ru.warehouse_request_user">38e07b7ddbd3230038b652f8f49619f3</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

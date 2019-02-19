@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon">
+    <sys_sg_icon action="INSERT_OR_UPDATE">
+        <icon>{"Shape":"Circle","FontName":"Font Awesome 5 Free","Value":"f0f3","FontColor":"#54AC98","BackgroundColor":"#54AC98","Name":"bell"}</icon>
+        <name>bell</name>
+        <sys_class_name>sys_sg_icon</sys_class_name>
+        <sys_created_by>Arnoud.Kooi</sys_created_by>
+        <sys_created_on>2019-01-30 14:42:10</sys_created_on>
+        <sys_id>2e8554864f1ba30035e0fdb28110c716</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>bell</sys_name>
+        <sys_package display_value="Warehouse Runner" source="x_snc_warehouse_ru">236fab3ddbd3230038b652f8f4961990</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Warehouse Runner">236fab3ddbd3230038b652f8f4961990</sys_scope>
+        <sys_update_name>sys_sg_icon_2e8554864f1ba30035e0fdb28110c716</sys_update_name>
+        <sys_updated_by>Arnoud.Kooi</sys_updated_by>
+        <sys_updated_on>2019-01-30 14:42:10</sys_updated_on>
+    </sys_sg_icon>
+</record_update>

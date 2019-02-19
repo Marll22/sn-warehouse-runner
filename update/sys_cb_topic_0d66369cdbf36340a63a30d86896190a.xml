@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_cb_topic">
+    <sys_cb_topic action="INSERT_OR_UPDATE">
+        <applicability/>
+        <connect_queue/>
+        <description/>
+        <graph>{
+  "graph_api_version": "1.0.10",
+  "goals": {
+    "c18cd72658bf4426a7c429d8ba12a61a": {
+      "id": "c18cd72658bf4426a7c429d8ba12a61a",
+      "trigger": {
+        "type": "primary"
+      },
+      "name": "primary",
+      "applicability": "",
+      "description": "",
+      "nodes": {
+        "4326c09a1e8d43bfb73bcd3396f0d35e": {
+          "id": "4326c09a1e8d43bfb73bcd3396f0d35e",
+          "stepType": "Start",
+          "name": "Start",
+          "greetingResponse": {
+            "mode": "simple",
+            "value": ""
+          }
+        },
+        "e176a60991f7422a9b157d35e8b18e76": {
+          "id": "e176a60991f7422a9b157d35e8b18e76",
+          "stepType": "TerminateGoal",
+          "name": "End",
+          "confirmationMessage": {
+            "mode": "simple",
+            "value": ""
+          }
+        },
+        "e22c97bbe5e8418d95874f74eb437ff1": {
+          "id": "e22c97bbe5e8418d95874f74eb437ff1",
+          "stepType": "Prompt",
+          "name": "Product description",
+          "prompt": {
+            "value": "What is the Item your looking for?",
+            "mode": "simple"
+          },
+          "confirmMessage": {
+            "value": "",
+            "mode": "simple"
+          },
+          "acknowledgeMsg": {
+            "value": "",
+            "mode": "simple"
+          },
+          "applicability": {
+            "value": "",
+            "mode": "query"
+          },
+          "optional": false,
+          "defaultValue": {
+            "value": "",
+            "mode": "simple"
+          },
+          "variableId": "1b91805a10d641a7b5f39ea9184b3656"
+        },
+        "0eae36a507824e8cae47ae7392961c0d": {
+          "stepType": "ReferenceChoicePrompt",
+          "name": "Product Lookup",
+          "prompt": {
+            "value": "Choose your product please",
+            "mode": "simple"
+          },
+          "confirmMessage": {
+            "value": "",
+            "mode": "simple"
+          },
+          "acknowledgeMsg": {
+            "value": "",
+            "mode": "simple"
+          },
+          "applicability": {
+            "mode": "script",
+            "value": ""
+          },
+          "optional": false,
+          "defaultValue": {
+            "value": "",
+            "mode": "simple"
+          },
+          "variableId": "88f382aefd644710b8e602b21cc44e70",
+          "id": "0eae36a507824e8cae47ae7392961c0d",
+          "mode": "glide_record",
+          "script": "",
+          "noRecordsResponseMsg": {
+            "value": "Nothing found :(",
+            "mode": "simple"
+          },
+          "condition": {
+            "mode": "glide_query",
+            "value": "nameLIKE{{vaInputs.product_description}}^ORnumberLIKE{{vaInputs.product_description}}"
+          }
+        },
+        "322531fd4dad41e1984fbff8a5c7e974": {
+          "id": "322531fd4dad41e1984fbff8a5c7e974",
+          "stepType": "CrudAction",
+          "name": "Create Request",
+          "template": "product={{vaInputs.product_lookup}}^opened_by={{vaInputs.user}}^short_description=Requested from Virtual Agent chat",
+          "mode": "create",
+          "record": "",
+          "applicability": {
+            "value": "",
+            "mode": "query"
+          },
+          "variableId": "6d41bef8423e48fbabe446a2dd44432a"
+        },
+        "8828ad263ecf419db4845ab5ce7551f9": {
+          "id": "8828ad263ecf419db4845ab5ce7551f9",
+          "stepType": "RecordOutput",
+          "name": "Created Request",
+          "variableId": "6d41bef8423e48fbabe446a2dd44432a",
+          "mode": "variable",
+          "tableName": "x_snc_warehouse_ru_warehouse_request",
+          "fields": [
+            "product",
+            "short_description",
+            "priority",
+            "state",
+            "opened_at"
+          ],
+          "applicability": {
+            "value": "",
+            "mode": "query"
+          },
+          "condition": {
+            "mode": "variable",
+            "value": ""
+          }
+        },
+        "ad0639cc0b324485b4c50f09af9eeb92": {
+          "id": "ad0639cc0b324485b4c50f09af9eeb92",
+          "stepType": "TextOutput",
+          "name": "Thank you",
+          "value": {
+            "value": "The request is created, sit back and wait for your product!",
+            "mode": "simple"
+          },
+          "applicability": {
+            "value": "",
+            "mode": "query"
+          }
+        }
+      },
+      "edges": [
+        {
+          "id": "458b81641cd3454dbe7f2f853ddcde2d",
+          "edgeType": "Edge",
+          "source": "4326c09a1e8d43bfb73bcd3396f0d35e",
+          "target": "e22c97bbe5e8418d95874f74eb437ff1",
+          "sourcePort": "",
+          "targetPort": ""
+        },
+        {
+          "id": "002c38719e4b4b75bf24c7ea0b6bd7b3",
+          "edgeType": "Edge",
+          "source": "e22c97bbe5e8418d95874f74eb437ff1",
+          "target": "0eae36a507824e8cae47ae7392961c0d",
+          "sourcePort": "",
+          "targetPort": ""
+        },
+        {
+          "id": "61b6d731f34f4fcda32e0a1f7e212f44",
+          "edgeType": "Edge",
+          "source": "0eae36a507824e8cae47ae7392961c0d",
+          "target": "322531fd4dad41e1984fbff8a5c7e974",
+          "sourcePort": "",
+          "targetPort": ""
+        },
+        {
+          "id": "0b44c80234b946fb8789af924118463a",
+          "edgeType": "Edge",
+          "source": "322531fd4dad41e1984fbff8a5c7e974",
+          "target": "8828ad263ecf419db4845ab5ce7551f9",
+          "sourcePort": "",
+          "targetPort": ""
+        },
+        {
+          "id": "e0e262f04f7849b7a2a6c584b7943667",
+          "edgeType": "Edge",
+          "source": "8828ad263ecf419db4845ab5ce7551f9",
+          "target": "ad0639cc0b324485b4c50f09af9eeb92",
+          "sourcePort": "",
+          "targetPort": ""
+        },
+        {
+          "id": "0bd2c64f3d594a4e9e429d404ad972fb",
+          "edgeType": "Edge",
+          "source": "ad0639cc0b324485b4c50f09af9eeb92",
+          "target": "e176a60991f7422a9b157d35e8b18e76",
+          "sourcePort": "",
+          "targetPort": ""
+        }
+      ]
+    }
+  },
+  "variables": {
+    "1b91805a10d641a7b5f39ea9184b3656": {
+      "id": "1b91805a10d641a7b5f39ea9184b3656",
+      "name": "product_description",
+      "label": "Product Description",
+      "varType": "string",
+      "category": "vaInputs"
+    },
+    "current-user": {
+      "category": "vaInputs",
+      "id": "current-user",
+      "label": "User",
+      "name": "user",
+      "table": "sys_user",
+      "varType": "reference"
+    },
+    "88f382aefd644710b8e602b21cc44e70": {
+      "id": "88f382aefd644710b8e602b21cc44e70",
+      "name": "product_lookup",
+      "label": "Product Lookup",
+      "varType": "reference",
+      "table": "x_snc_warehouse_ru_product",
+      "category": "vaInputs"
+    },
+    "6d41bef8423e48fbabe446a2dd44432a": {
+      "id": "6d41bef8423e48fbabe446a2dd44432a",
+      "name": "create_request",
+      "label": "Create Request",
+      "varType": "reference",
+      "table": "x_snc_warehouse_ru_warehouse_request",
+      "inactive": false,
+      "category": "vaInputs"
+    }
+  }
+}</graph>
+        <key_phrases>New Run,Run</key_phrases>
+        <live_agent>false</live_agent>
+        <name>New Run</name>
+        <roles/>
+        <sys_class_name>sys_cb_topic</sys_class_name>
+        <sys_created_by>arnoud.kooi</sys_created_by>
+        <sys_created_on>2019-02-19 12:26:58</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>0d66369cdbf36340a63a30d86896190a</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>New Run</sys_name>
+        <sys_package display_value="Warehouse Runner" source="x_snc_warehouse_ru">236fab3ddbd3230038b652f8f4961990</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Warehouse Runner">236fab3ddbd3230038b652f8f4961990</sys_scope>
+        <sys_update_name>sys_cb_topic_0d66369cdbf36340a63a30d86896190a</sys_update_name>
+        <sys_updated_by>arnoud.kooi</sys_updated_by>
+        <sys_updated_on>2019-02-19 12:58:58</sys_updated_on>
+        <variables/>
+    </sys_cb_topic>
+    <sys_variable_value action="delete_multiple" query="document_key=0d66369cdbf36340a63a30d86896190a"/>
+</record_update>

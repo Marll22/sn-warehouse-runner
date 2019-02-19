@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_broadcast_message">
+    <sys_broadcast_message action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <any_roled_user>true</any_roled_user>
+        <at_login>true</at_login>
+        <condition/>
+        <conditional>false</conditional>
+        <dc_sys_id/>
+        <email>false</email>
+        <email_sent>false</email_sent>
+        <logged_in>true</logged_in>
+        <message>Hi Welcome</message>
+        <name>Megaphone Broadcast Message</name>
+        <notify_users_after_date>2019-02-05 09:54:20</notify_users_after_date>
+        <notify_users_until_date>2019-02-13 09:54:27</notify_users_until_date>
+        <run_as display_value="Arnoud Kooi">7025399bdba92300a63a30d8689619cf</run_as>
+        <run_as_tz/>
+        <run_dayofmonth>1</run_dayofmonth>
+        <run_dayofweek/>
+        <run_period/>
+        <run_start>2019-02-12 09:54:50</run_start>
+        <run_time/>
+        <run_type>once</run_type>
+        <script><![CDATA[var mega = new MegaphoneBroadcast(current.sys_id).broadcastMessage();]]></script>
+        <sys_class_name>sys_broadcast_message</sys_class_name>
+        <sys_created_by>arnoud.kooi</sys_created_by>
+        <sys_created_on>2019-02-12 09:54:45</sys_created_on>
+        <sys_id>0b409282dbabeb00a63a30d8689619ad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Hi Welcome</sys_name>
+        <sys_package display_value="Warehouse Runner" source="x_snc_warehouse_ru">236fab3ddbd3230038b652f8f4961990</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Warehouse Runner">236fab3ddbd3230038b652f8f4961990</sys_scope>
+        <sys_update_name>sys_broadcast_message_0b409282dbabeb00a63a30d8689619ad</sys_update_name>
+        <sys_updated_by>arnoud.kooi</sys_updated_by>
+        <sys_updated_on>2019-02-12 09:54:45</sys_updated_on>
+        <upgrade_safe>false</upgrade_safe>
+        <user_filter/>
+    </sys_broadcast_message>
+</record_update>

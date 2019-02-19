@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_style">
+    <sys_sg_ui_style action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition table="x_snc_warehouse_ru_warehouse_request">state=1^EQ<item endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="1"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <field>number</field>
+        <name>Run State - Requested</name>
+        <style>{"background_color":"red","font_color":"white"}</style>
+        <sys_class_name>sys_sg_ui_style</sys_class_name>
+        <sys_created_by>arnoud.kooi</sys_created_by>
+        <sys_created_on>2019-02-08 12:04:48</sys_created_on>
+        <sys_id>af9586f8db2b2b00a63a30d86896198a</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Run State - Requested</sys_name>
+        <sys_package display_value="Warehouse Runner" source="x_snc_warehouse_ru">236fab3ddbd3230038b652f8f4961990</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Warehouse Runner">236fab3ddbd3230038b652f8f4961990</sys_scope>
+        <sys_update_name>sys_sg_ui_style_af9586f8db2b2b00a63a30d86896198a</sys_update_name>
+        <sys_updated_by>arnoud.kooi</sys_updated_by>
+        <sys_updated_on>2019-02-08 13:42:07</sys_updated_on>
+        <table>x_snc_warehouse_ru_warehouse_request</table>
+    </sys_sg_ui_style>
+</record_update>

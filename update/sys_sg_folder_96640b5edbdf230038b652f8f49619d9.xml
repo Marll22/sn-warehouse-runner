@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_folder">
+    <sys_sg_folder action="INSERT_OR_UPDATE">
+        <application display_value="Run Request">7e85d4464f1ba30035e0fdb28110c778</application>
+        <name>Warehouse Runner</name>
+        <order>2</order>
+        <sys_class_name>sys_sg_folder</sys_class_name>
+        <sys_created_by>arnoud.kooi</sys_created_by>
+        <sys_created_on>2019-01-31 22:04:41</sys_created_on>
+        <sys_id>96640b5edbdf230038b652f8f49619d9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Warehouse Runner</sys_name>
+        <sys_package display_value="Warehouse Runner" source="x_snc_warehouse_ru">236fab3ddbd3230038b652f8f4961990</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Warehouse Runner">236fab3ddbd3230038b652f8f4961990</sys_scope>
+        <sys_update_name>sys_sg_folder_96640b5edbdf230038b652f8f49619d9</sys_update_name>
+        <sys_updated_by>arnoud.kooi</sys_updated_by>
+        <sys_updated_on>2019-01-31 22:04:41</sys_updated_on>
+    </sys_sg_folder>
+</record_update>

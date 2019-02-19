@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter">
+    <sys_sg_item_parameter action="INSERT_OR_UPDATE">
+        <default_value/>
+        <name>product</name>
+        <parent>fd79d84a4f1ba30035e0fdb28110c7dd</parent>
+        <parent_table>sys_sg_write_back_action_item</parent_table>
+        <sys_class_name>sys_sg_item_parameter</sys_class_name>
+        <sys_created_by>arnoud.kooi</sys_created_by>
+        <sys_created_on>2019-01-31 14:15:49</sys_created_on>
+        <sys_id>8d09d59adbd76300a63a30d8689619a9</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>product</sys_name>
+        <sys_package display_value="Warehouse Runner" source="x_snc_warehouse_ru">236fab3ddbd3230038b652f8f4961990</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Warehouse Runner">236fab3ddbd3230038b652f8f4961990</sys_scope>
+        <sys_update_name>sys_sg_item_parameter_8d09d59adbd76300a63a30d8689619a9</sys_update_name>
+        <sys_updated_by>arnoud.kooi</sys_updated_by>
+        <sys_updated_on>2019-01-31 21:24:22</sys_updated_on>
+        <type>string</type>
+    </sys_sg_item_parameter>
+</record_update>

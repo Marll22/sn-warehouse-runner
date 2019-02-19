@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="I'll Run">680dc716db13630038b652f8f4961994</button>
+        <description/>
+        <field_name/>
+        <label>I'll Run</label>
+        <location>trailing_swipe</location>
+        <name>I'll Run</name>
+        <order>1</order>
+        <parent>6a8b47d2db13630038b652f8f49619eb</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>arnoud.kooi</sys_created_by>
+        <sys_created_on>2019-01-31 22:47:27</sys_created_on>
+        <sys_id>f03e8756db13630038b652f8f4961917</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>I'll Run</sys_name>
+        <sys_package display_value="Warehouse Runner" source="x_snc_warehouse_ru">236fab3ddbd3230038b652f8f4961990</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Warehouse Runner">236fab3ddbd3230038b652f8f4961990</sys_scope>
+        <sys_update_name>sys_sg_button_instance_f03e8756db13630038b652f8f4961917</sys_update_name>
+        <sys_updated_by>arnoud.kooi</sys_updated_by>
+        <sys_updated_on>2019-01-31 22:47:27</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=f03e8756db13630038b652f8f4961917"/>
+</record_update>

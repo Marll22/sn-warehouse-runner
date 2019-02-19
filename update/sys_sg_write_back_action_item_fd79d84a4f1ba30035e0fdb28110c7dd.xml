@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item">
+    <sys_sg_write_back_action_item action="INSERT_OR_UPDATE">
+        <description/>
+        <execution_script><![CDATA[(function WriteBackAction(input) {
+
+	var grReq = new GlideRecord('x_snc_warehouse_ru_warehouse_request');
+	grReq.initialize();
+	grReq.setValue('short_description', input.remark);
+	grReq.setValue('caller_id',gs.getUserID());
+	grReq.setValue('product',input.product);
+	grReq.setValue('priority', input.priority);
+	grReq.insert();
+	
+})(input);]]></execution_script>
+        <name>Bring It WriteBack</name>
+        <query_condition/>
+        <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
+        <sys_created_by>Arnoud.Kooi</sys_created_by>
+        <sys_created_on>2019-01-30 15:00:20</sys_created_on>
+        <sys_id>fd79d84a4f1ba30035e0fdb28110c7dd</sys_id>
+        <sys_mod_count>13</sys_mod_count>
+        <sys_name>Bring It WriteBack</sys_name>
+        <sys_package display_value="Warehouse Runner" source="x_snc_warehouse_ru">236fab3ddbd3230038b652f8f4961990</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Warehouse Runner">236fab3ddbd3230038b652f8f4961990</sys_scope>
+        <sys_update_name>sys_sg_write_back_action_item_fd79d84a4f1ba30035e0fdb28110c7dd</sys_update_name>
+        <sys_updated_by>arnoud.kooi</sys_updated_by>
+        <sys_updated_on>2019-01-31 21:25:37</sys_updated_on>
+        <table>x_snc_warehouse_ru_warehouse_request</table>
+        <template/>
+        <type>script</type>
+        <use_current_record_as_condition>false</use_current_record_as_condition>
+    </sys_sg_write_back_action_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=fd79d84a4f1ba30035e0fdb28110c7dd"/>
+</record_update>

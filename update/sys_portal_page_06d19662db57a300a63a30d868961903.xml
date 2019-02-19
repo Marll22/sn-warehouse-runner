@@ -1,0 +1,1161 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2019-02-19 13:54:50">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout/>
+        <order/>
+        <read_roles/>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>arnoud.kooi</sys_created_by>
+        <sys_created_on>2019-02-01 13:02:13</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>06d19662db57a300a63a30d868961903</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>PA SLA</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Warehouse Runner" source="x_snc_warehouse_ru">236fab3ddbd3230038b652f8f4961990</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Warehouse Runner">236fab3ddbd3230038b652f8f4961990</sys_scope>
+        <sys_update_name>sys_portal_page_06d19662db57a300a63a30d868961903</sys_update_name>
+        <sys_updated_by>arnoud.kooi</sys_updated_by>
+        <sys_updated_on>2019-02-01 13:04:47</sys_updated_on>
+        <title>PA SLA</title>
+        <user/>
+        <view>pa_new_tab_16_1</view>
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA SLA">06d19662db57a300a63a30d868961903</page>
+                <summary>My Active SLAs</summary>
+                <sys_created_by>arnoud.kooi</sys_created_by>
+                <sys_created_on>2019-02-01 13:02:14</sys_created_on>
+                <sys_id>02d1d662db57a300a63a30d86896192b</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>arnoud.kooi</sys_updated_by>
+                <sys_updated_on>2019-02-01 13:02:14</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>publisher_widget</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:14">02d1d662db57a300a63a30d86896192b</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:14</sys_created_on>
+                        <sys_id>02d1d662db57a300a63a30d86896192d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:14</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>filter_indicator</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:14">02d1d662db57a300a63a30d86896192b</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:14</sys_created_on>
+                        <sys_id>06d1d662db57a300a63a30d86896192c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:14</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_publish</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:14">02d1d662db57a300a63a30d86896192b</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:14</sys_created_on>
+                        <sys_id>0ad1d662db57a300a63a30d86896192b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:14</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:14">02d1d662db57a300a63a30d86896192b</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:14</sys_created_on>
+                        <sys_id>0ad1d662db57a300a63a30d86896192d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:14</sys_updated_on>
+                        <value>My Active SLAs</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_align</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:14">02d1d662db57a300a63a30d86896192b</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:14</sys_created_on>
+                        <sys_id>42d1d662db57a300a63a30d86896192c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:14</sys_updated_on>
+                        <value>center</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:14">02d1d662db57a300a63a30d86896192b</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:14</sys_created_on>
+                        <sys_id>42d1d662db57a300a63a30d86896192e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:14</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:14">02d1d662db57a300a63a30d86896192b</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:14</sys_created_on>
+                        <sys_id>46d1d662db57a300a63a30d86896192b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:14</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_title</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:14">02d1d662db57a300a63a30d86896192b</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:14</sys_created_on>
+                        <sys_id>4ed1d662db57a300a63a30d86896192c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:14</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>real_time</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:14">02d1d662db57a300a63a30d86896192b</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:14</sys_created_on>
+                        <sys_id>8ad1d662db57a300a63a30d86896192c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:14</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>subscriber_widget</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:14">02d1d662db57a300a63a30d86896192b</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:14</sys_created_on>
+                        <sys_id>8ed1d662db57a300a63a30d86896192b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:14</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:14">02d1d662db57a300a63a30d86896192b</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:14</sys_created_on>
+                        <sys_id>8ed1d662db57a300a63a30d86896192d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:14</sys_updated_on>
+                        <value>list</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:14">02d1d662db57a300a63a30d86896192b</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:14</sys_created_on>
+                        <sys_id>c2d1d662db57a300a63a30d86896192d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:14</sys_updated_on>
+                        <value>f683ea9723521300889edc1756bf65e2</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_border</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:14">02d1d662db57a300a63a30d86896192b</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:14</sys_created_on>
+                        <sys_id>c6d1d662db57a300a63a30d86896192c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:14</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_header</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:14">02d1d662db57a300a63a30d86896192b</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:14</sys_created_on>
+                        <sys_id>cad1d662db57a300a63a30d86896192b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:14</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:14">02d1d662db57a300a63a30d86896192b</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:14</sys_created_on>
+                        <sys_id>cad1d662db57a300a63a30d86896192d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:14</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA SLA">06d19662db57a300a63a30d868961903</page>
+                <summary>My Active Breach SLA</summary>
+                <sys_created_by>arnoud.kooi</sys_created_by>
+                <sys_created_on>2019-02-01 13:02:14</sys_created_on>
+                <sys_id>06d1d662db57a300a63a30d86896192e</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>arnoud.kooi</sys_updated_by>
+                <sys_updated_on>2019-02-01 13:02:14</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_publish</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:14">06d1d662db57a300a63a30d86896192e</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:14</sys_created_on>
+                        <sys_id>06d1d662db57a300a63a30d868961930</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:14</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_header</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:14">06d1d662db57a300a63a30d86896192e</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:14</sys_created_on>
+                        <sys_id>0ad1d662db57a300a63a30d86896192f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:14</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_border</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:14">06d1d662db57a300a63a30d86896192e</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:14</sys_created_on>
+                        <sys_id>0ed1d662db57a300a63a30d86896192e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:14</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:14">06d1d662db57a300a63a30d86896192e</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:14</sys_created_on>
+                        <sys_id>0ed1d662db57a300a63a30d868961930</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:14</sys_updated_on>
+                        <value>My Active Breach SLA</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>filter_indicator</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:14">06d1d662db57a300a63a30d86896192e</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:14</sys_created_on>
+                        <sys_id>42d1d662db57a300a63a30d868961930</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:14</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>publisher_widget</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:14">06d1d662db57a300a63a30d86896192e</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:14</sys_created_on>
+                        <sys_id>46d1d662db57a300a63a30d86896192f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:14</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:14">06d1d662db57a300a63a30d86896192e</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:14</sys_created_on>
+                        <sys_id>46d1d662db57a300a63a30d868961931</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:14</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:14">06d1d662db57a300a63a30d86896192e</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:14</sys_created_on>
+                        <sys_id>4ad1d662db57a300a63a30d86896192e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:14</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_title</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:14">06d1d662db57a300a63a30d86896192e</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:14</sys_created_on>
+                        <sys_id>82d1d662db57a300a63a30d86896192f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:14</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:14">06d1d662db57a300a63a30d86896192e</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:14</sys_created_on>
+                        <sys_id>82d1d662db57a300a63a30d868961931</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:14</sys_updated_on>
+                        <value>single_score</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_align</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:14">06d1d662db57a300a63a30d86896192e</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:14</sys_created_on>
+                        <sys_id>8ed1d662db57a300a63a30d86896192f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:14</sys_updated_on>
+                        <value>center</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:14">06d1d662db57a300a63a30d86896192e</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:14</sys_created_on>
+                        <sys_id>c6d1d662db57a300a63a30d868961930</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:14</sys_updated_on>
+                        <value>3318073853011300eaaeddeeff7b123d</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>subscriber_widget</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:14">06d1d662db57a300a63a30d86896192e</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:14</sys_created_on>
+                        <sys_id>cad1d662db57a300a63a30d86896192f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:14</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>real_time</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:14">06d1d662db57a300a63a30d86896192e</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:14</sys_created_on>
+                        <sys_id>ced1d662db57a300a63a30d86896192e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:14</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:14">06d1d662db57a300a63a30d86896192e</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:14</sys_created_on>
+                        <sys_id>ced1d662db57a300a63a30d868961930</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:14</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA SLA">06d19662db57a300a63a30d868961903</page>
+                <summary>My Group Active SLA</summary>
+                <sys_created_by>arnoud.kooi</sys_created_by>
+                <sys_created_on>2019-02-01 13:02:14</sys_created_on>
+                <sys_id>0ad1d662db57a300a63a30d868961931</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>arnoud.kooi</sys_updated_by>
+                <sys_updated_on>2019-02-01 13:02:14</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_title</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:14">0ad1d662db57a300a63a30d868961931</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:14</sys_created_on>
+                        <sys_id>02d1d662db57a300a63a30d868961932</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:14</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:14">0ad1d662db57a300a63a30d868961931</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:14</sys_created_on>
+                        <sys_id>02d1d662db57a300a63a30d868961934</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:14</sys_updated_on>
+                        <value>My Group Active SLA</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_publish</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:14">0ad1d662db57a300a63a30d868961931</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:14</sys_created_on>
+                        <sys_id>0ad1d662db57a300a63a30d868961933</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:14</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>filter_indicator</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:14">0ad1d662db57a300a63a30d868961931</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:14</sys_created_on>
+                        <sys_id>0ed1d662db57a300a63a30d868961932</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:14</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>publisher_widget</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:14">0ad1d662db57a300a63a30d868961931</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:14</sys_created_on>
+                        <sys_id>46d1d662db57a300a63a30d868961933</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:14</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_align</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:14">0ad1d662db57a300a63a30d868961931</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:14</sys_created_on>
+                        <sys_id>4ad1d662db57a300a63a30d868961932</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:14</sys_updated_on>
+                        <value>center</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:14">0ad1d662db57a300a63a30d868961931</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:14</sys_created_on>
+                        <sys_id>4ad1d662db57a300a63a30d868961934</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:14</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_header</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:14">0ad1d662db57a300a63a30d868961931</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:14</sys_created_on>
+                        <sys_id>4ed1d662db57a300a63a30d868961931</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:14</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>real_time</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:14">0ad1d662db57a300a63a30d868961931</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:14</sys_created_on>
+                        <sys_id>82d1d662db57a300a63a30d868961933</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:14</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>subscriber_widget</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:14">0ad1d662db57a300a63a30d868961931</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:14</sys_created_on>
+                        <sys_id>86d1d662db57a300a63a30d868961932</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:14</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:14">0ad1d662db57a300a63a30d868961931</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:14</sys_created_on>
+                        <sys_id>86d1d662db57a300a63a30d868961934</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:14</sys_updated_on>
+                        <value>single_score</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:14">0ad1d662db57a300a63a30d868961931</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:14</sys_created_on>
+                        <sys_id>c2d1d662db57a300a63a30d868961932</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:14</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:14">0ad1d662db57a300a63a30d868961931</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:14</sys_created_on>
+                        <sys_id>c2d1d662db57a300a63a30d868961934</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:14</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:14">0ad1d662db57a300a63a30d868961931</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:14</sys_created_on>
+                        <sys_id>cad1d662db57a300a63a30d868961933</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:14</sys_updated_on>
+                        <value>de1a8f3853011300eaaeddeeff7b1218</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_border</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:14">0ad1d662db57a300a63a30d868961931</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:14</sys_created_on>
+                        <sys_id>ced1d662db57a300a63a30d868961932</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:14</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA SLA">06d19662db57a300a63a30d868961903</page>
+                <summary>My Active SLA</summary>
+                <sys_created_by>arnoud.kooi</sys_created_by>
+                <sys_created_on>2019-02-01 13:02:14</sys_created_on>
+                <sys_id>0ed1d662db57a300a63a30d868961934</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>arnoud.kooi</sys_updated_by>
+                <sys_updated_on>2019-02-01 13:02:14</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_publish</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:14">0ed1d662db57a300a63a30d868961934</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:14</sys_created_on>
+                        <sys_id>06d1d662db57a300a63a30d868961935</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:14</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:14">0ed1d662db57a300a63a30d868961934</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:14</sys_created_on>
+                        <sys_id>42d1d662db57a300a63a30d868961935</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:14</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:14">0ed1d662db57a300a63a30d868961934</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:14</sys_created_on>
+                        <sys_id>46d1d662db57a300a63a30d868961936</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:14</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:14">0ed1d662db57a300a63a30d868961934</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:14</sys_created_on>
+                        <sys_id>82d1d662db57a300a63a30d868961936</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:14</sys_updated_on>
+                        <value>list</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:14">0ed1d662db57a300a63a30d868961934</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:14</sys_created_on>
+                        <sys_id>8ad1d662db57a300a63a30d868961935</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:14</sys_updated_on>
+                        <value>711d0f7853011300eaaeddeeff7b1296</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:14">0ed1d662db57a300a63a30d868961934</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:14</sys_created_on>
+                        <sys_id>c6d1d662db57a300a63a30d868961935</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:14</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:14">0ed1d662db57a300a63a30d868961934</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:14</sys_created_on>
+                        <sys_id>ced1d662db57a300a63a30d868961935</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:14</sys_updated_on>
+                        <value>My Active SLA</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA SLA">06d19662db57a300a63a30d868961903</page>
+                <summary>My Active SLA</summary>
+                <sys_created_by>arnoud.kooi</sys_created_by>
+                <sys_created_on>2019-02-01 13:02:14</sys_created_on>
+                <sys_id>4ed19662db57a300a63a30d868961906</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>arnoud.kooi</sys_updated_by>
+                <sys_updated_on>2019-02-01 13:02:14</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_align</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:14">4ed19662db57a300a63a30d868961906</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:14</sys_created_on>
+                        <sys_id>02d19662db57a300a63a30d868961908</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:14</sys_updated_on>
+                        <value>center</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:14">4ed19662db57a300a63a30d868961906</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:14</sys_created_on>
+                        <sys_id>0ad19662db57a300a63a30d868961907</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:14</sys_updated_on>
+                        <value>4857433853011300eaaeddeeff7b1231</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:14">4ed19662db57a300a63a30d868961906</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:14</sys_created_on>
+                        <sys_id>0ad19662db57a300a63a30d868961909</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:14</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_title</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:14">4ed19662db57a300a63a30d868961906</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:14</sys_created_on>
+                        <sys_id>0ed19662db57a300a63a30d868961908</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:14</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:14">4ed19662db57a300a63a30d868961906</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:14</sys_created_on>
+                        <sys_id>46d19662db57a300a63a30d868961907</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:14</sys_updated_on>
+                        <value>My Active SLA</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>subscriber_widget</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:14">4ed19662db57a300a63a30d868961906</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:14</sys_created_on>
+                        <sys_id>46d19662db57a300a63a30d868961909</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:14</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>real_time</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:14">4ed19662db57a300a63a30d868961906</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:14</sys_created_on>
+                        <sys_id>4ad19662db57a300a63a30d868961908</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:14</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:14">4ed19662db57a300a63a30d868961906</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:14</sys_created_on>
+                        <sys_id>4ed19662db57a300a63a30d868961907</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:14</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:14">4ed19662db57a300a63a30d868961906</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:14</sys_created_on>
+                        <sys_id>82d19662db57a300a63a30d868961907</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:14</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_header</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:14">4ed19662db57a300a63a30d868961906</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:14</sys_created_on>
+                        <sys_id>82d19662db57a300a63a30d868961909</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:14</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_border</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:14">4ed19662db57a300a63a30d868961906</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:14</sys_created_on>
+                        <sys_id>86d19662db57a300a63a30d868961908</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:14</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>filter_indicator</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:14">4ed19662db57a300a63a30d868961906</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:14</sys_created_on>
+                        <sys_id>c2d19662db57a300a63a30d868961908</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:14</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>publisher_widget</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:14">4ed19662db57a300a63a30d868961906</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:14</sys_created_on>
+                        <sys_id>ced19662db57a300a63a30d868961908</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:14</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA SLA">06d19662db57a300a63a30d868961903</page>
+                <summary>My at risk SLAs</summary>
+                <sys_created_by>arnoud.kooi</sys_created_by>
+                <sys_created_on>2019-02-01 13:02:13</sys_created_on>
+                <sys_id>cad19662db57a300a63a30d868961903</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>arnoud.kooi</sys_updated_by>
+                <sys_updated_on>2019-02-01 13:02:13</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_title</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:13">cad19662db57a300a63a30d868961903</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:13</sys_created_on>
+                        <sys_id>02d19662db57a300a63a30d868961905</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:13</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>filter_indicator</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:13">cad19662db57a300a63a30d868961903</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:13</sys_created_on>
+                        <sys_id>06d19662db57a300a63a30d868961904</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:13</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:13">cad19662db57a300a63a30d868961903</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:14</sys_created_on>
+                        <sys_id>06d19662db57a300a63a30d868961906</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:14</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:13">cad19662db57a300a63a30d868961903</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:13</sys_created_on>
+                        <sys_id>0ed19662db57a300a63a30d868961905</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:13</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_align</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:13">cad19662db57a300a63a30d868961903</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:13</sys_created_on>
+                        <sys_id>42d19662db57a300a63a30d868961904</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:13</sys_updated_on>
+                        <value>center</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>subscriber_widget</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:13">cad19662db57a300a63a30d868961903</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:13</sys_created_on>
+                        <sys_id>4ad19662db57a300a63a30d868961905</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:13</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>real_time</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:13">cad19662db57a300a63a30d868961903</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:13</sys_created_on>
+                        <sys_id>4ed19662db57a300a63a30d868961904</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:13</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_header</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:13">cad19662db57a300a63a30d868961903</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:13</sys_created_on>
+                        <sys_id>86d19662db57a300a63a30d868961905</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:13</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_border</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:13">cad19662db57a300a63a30d868961903</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:13</sys_created_on>
+                        <sys_id>8ad19662db57a300a63a30d868961904</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:13</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:13">cad19662db57a300a63a30d868961903</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:14</sys_created_on>
+                        <sys_id>8ad19662db57a300a63a30d868961906</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:14</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>publisher_widget</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:13">cad19662db57a300a63a30d868961903</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:13</sys_created_on>
+                        <sys_id>c2d19662db57a300a63a30d868961905</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:13</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:13">cad19662db57a300a63a30d868961903</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:13</sys_created_on>
+                        <sys_id>c6d19662db57a300a63a30d868961904</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:13</sys_updated_on>
+                        <value>single_score</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:13">cad19662db57a300a63a30d868961903</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:14</sys_created_on>
+                        <sys_id>c6d19662db57a300a63a30d868961906</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:14</sys_updated_on>
+                        <value>My at risk SLAs</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:13">cad19662db57a300a63a30d868961903</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:14</sys_created_on>
+                        <sys_id>ced19662db57a300a63a30d868961905</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:14</sys_updated_on>
+                        <value>24337c1d57011300491dac11ac94f9d8</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA SLA">06d19662db57a300a63a30d868961903</page>
+                <summary>My Group Active SLA</summary>
+                <sys_created_by>arnoud.kooi</sys_created_by>
+                <sys_created_on>2019-02-01 13:02:14</sys_created_on>
+                <sys_id>cad19662db57a300a63a30d868961909</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>arnoud.kooi</sys_updated_by>
+                <sys_updated_on>2019-02-01 13:02:14</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:14">cad19662db57a300a63a30d868961909</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:14</sys_created_on>
+                        <sys_id>02d19662db57a300a63a30d86896190a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:14</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_publish</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:14">cad19662db57a300a63a30d868961909</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:14</sys_created_on>
+                        <sys_id>06d1d662db57a300a63a30d868961928</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:14</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_border</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:14">cad19662db57a300a63a30d868961909</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:14</sys_created_on>
+                        <sys_id>06d1d662db57a300a63a30d86896192a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:14</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_header</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:14">cad19662db57a300a63a30d868961909</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:14</sys_created_on>
+                        <sys_id>0ad1d662db57a300a63a30d868961929</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:14</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:14">cad19662db57a300a63a30d868961909</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:14</sys_created_on>
+                        <sys_id>0ed1d662db57a300a63a30d868961928</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:14</sys_updated_on>
+                        <value>My Group Active SLA</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>filter_indicator</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:14">cad19662db57a300a63a30d868961909</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:14</sys_created_on>
+                        <sys_id>42d1d662db57a300a63a30d86896192a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:14</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>publisher_widget</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:14">cad19662db57a300a63a30d868961909</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:14</sys_created_on>
+                        <sys_id>46d1d662db57a300a63a30d868961929</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:14</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:14">cad19662db57a300a63a30d868961909</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:14</sys_created_on>
+                        <sys_id>4ed1d662db57a300a63a30d86896192a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:14</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_title</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:14">cad19662db57a300a63a30d868961909</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:14</sys_created_on>
+                        <sys_id>82d1d662db57a300a63a30d868961929</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:14</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:14">cad19662db57a300a63a30d868961909</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:14</sys_created_on>
+                        <sys_id>8ad1d662db57a300a63a30d86896192a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:14</sys_updated_on>
+                        <value>bar</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_align</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:14">cad19662db57a300a63a30d868961909</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:14</sys_created_on>
+                        <sys_id>8ed1d662db57a300a63a30d868961929</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:14</sys_updated_on>
+                        <value>center</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:14">cad19662db57a300a63a30d868961909</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:14</sys_created_on>
+                        <sys_id>c6d1d662db57a300a63a30d868961928</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:14</sys_updated_on>
+                        <value>7c77833853011300eaaeddeeff7b1273</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>real_time</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:14">cad19662db57a300a63a30d868961909</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:14</sys_created_on>
+                        <sys_id>c6d1d662db57a300a63a30d86896192a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:14</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>subscriber_widget</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:14">cad19662db57a300a63a30d868961909</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:14</sys_created_on>
+                        <sys_id>cad1d662db57a300a63a30d868961929</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:14</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2019-02-01 14:02:14">cad19662db57a300a63a30d868961909</portal_section>
+                        <sys_created_by>arnoud.kooi</sys_created_by>
+                        <sys_created_on>2019-02-01 13:02:14</sys_created_on>
+                        <sys_id>ced1d662db57a300a63a30d868961928</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>arnoud.kooi</sys_updated_by>
+                        <sys_updated_on>2019-02-01 13:02:14</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal_page>
+</record_update>

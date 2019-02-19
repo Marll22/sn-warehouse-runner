@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="task" label="Warehouse Request" max_length="40" name="x_snc_warehouse_ru_warehouse_request" sizeclass="34" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Product" mandatory="true" max_length="32" name="product" reference="x_snc_warehouse_ru_product" type="reference"/>
+    </element>
+</database>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Delivered">b953d35adb13630038b652f8f49619ee</button>
+        <description/>
+        <field_name/>
+        <label>Delivered</label>
+        <location>trailing_swipe</location>
+        <name>Delivered</name>
+        <order>2</order>
+        <parent>179583dedbdf230038b652f8f4961975</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>arnoud.kooi</sys_created_by>
+        <sys_created_on>2019-01-31 23:12:58</sys_created_on>
+        <sys_id>720457521b132300e8c2993d1d4bcbf2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Delivered</sys_name>
+        <sys_package display_value="Warehouse Runner" source="x_snc_warehouse_ru">236fab3ddbd3230038b652f8f4961990</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Warehouse Runner">236fab3ddbd3230038b652f8f4961990</sys_scope>
+        <sys_update_name>sys_sg_button_instance_720457521b132300e8c2993d1d4bcbf2</sys_update_name>
+        <sys_updated_by>arnoud.kooi</sys_updated_by>
+        <sys_updated_on>2019-01-31 23:12:58</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=720457521b132300e8c2993d1d4bcbf2"/>
+</record_update>

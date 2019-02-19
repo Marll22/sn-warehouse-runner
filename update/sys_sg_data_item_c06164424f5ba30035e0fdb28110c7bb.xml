@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <name>Products</name>
+        <query_condition table="x_snc_warehouse_ru_product">numberSTARTSWITHjavascript:'{{Number}}'.substring(0,5)^number!={{Number}}<item endquery="false" field="number" goto="false" newquery="false" operator="STARTSWITH" or="false" value="javascript:'{{Number}}'.substring(0,5)"/>
+            <item endquery="false" field="number" goto="false" newquery="false" operator="!=" or="false" value="{{Number}}"/>
+        </query_condition>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>Arnoud.Kooi</sys_created_by>
+        <sys_created_on>2019-01-30 15:33:53</sys_created_on>
+        <sys_id>c06164424f5ba30035e0fdb28110c7bb</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>Products</sys_name>
+        <sys_package display_value="Warehouse Runner" source="x_snc_warehouse_ru">236fab3ddbd3230038b652f8f4961990</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Warehouse Runner">236fab3ddbd3230038b652f8f4961990</sys_scope>
+        <sys_update_name>sys_sg_data_item_c06164424f5ba30035e0fdb28110c7bb</sys_update_name>
+        <sys_updated_by>arnoud.kooi</sys_updated_by>
+        <sys_updated_on>2019-01-31 13:30:22</sys_updated_on>
+        <table>x_snc_warehouse_ru_product</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=c06164424f5ba30035e0fdb28110c7bb"/>
+</record_update>
