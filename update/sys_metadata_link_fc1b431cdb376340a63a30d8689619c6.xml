@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>3e62dc024f1ba30035e0fdb28110c7b5</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_warehouse_ru_product">
+    <x_snc_warehouse_ru_product action="INSERT_OR_UPDATE">
+        <color>Blue</color>
+        <name>Jeans - xxl - Blue</name>
+        <number>100015</number>
+        <size>xxl</size>
+        <stock>20</stock>
+        <sys_created_by>Arnoud.Kooi</sys_created_by>
+        <sys_created_on>2019-01-30 14:28:31</sys_created_on>
+        <sys_id>3e62dc024f1ba30035e0fdb28110c7b5</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_updated_by>arnoud.kooi</sys_updated_by>
+        <sys_updated_on>2019-01-31 13:13:04</sys_updated_on>
+    </x_snc_warehouse_ru_product>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>arnoud.kooi</sys_created_by>
+        <sys_created_on>2019-02-19 13:57:20</sys_created_on>
+        <sys_id>fc1b431cdb376340a63a30d8689619c6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Jeans - xxl - Blue</sys_name>
+        <sys_package display_value="Warehouse Runner" source="x_snc_warehouse_ru">236fab3ddbd3230038b652f8f4961990</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Warehouse Runner">236fab3ddbd3230038b652f8f4961990</sys_scope>
+        <sys_update_name>sys_metadata_link_fc1b431cdb376340a63a30d8689619c6</sys_update_name>
+        <sys_updated_by>arnoud.kooi</sys_updated_by>
+        <sys_updated_on>2019-02-19 13:57:20</sys_updated_on>
+        <tablename>x_snc_warehouse_ru_product</tablename>
+    </sys_metadata_link>
+</record_update>
